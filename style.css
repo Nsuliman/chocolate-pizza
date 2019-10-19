@@ -1,0 +1,31 @@
+header {
+
+    background-color: white;
+    border-bottom: 20px solid rgb(206, 216, 206);
+    width: 100%;
+}
+
+header img {
+
+    float: left;
+    align-content: center;
+    margin-top: 10px;
+}
+
+header h1{
+
+font-family: cursive;
+font-style: italic;
+margin: 0px auto;
+align-content: center;
+padding: 0px;
+}
+
+header h4{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    margin: 0px auto;
+    padding-bottom: 30px;
+    font-size: 10px;
+    }
