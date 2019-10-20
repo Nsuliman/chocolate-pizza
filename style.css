@@ -3,6 +3,8 @@ header {
     background-color: white;
     border-bottom: 20px solid rgb(206, 216, 206);
     height: 100px;    
+    width: 960px;
+    margin: 0px auto;
 }
 
 header img {
@@ -29,5 +31,42 @@ header h4{
     font-style: oblique;
     font-size: 10px;
     color: grey;
+}
+
+main {
+
+    width: 960px;
+    margin: 0px auto;
+}
+
+main img {
+
+    float: right;
+    padding-top: 60px;
+    margin-bottom: 40px;
+}
+main h2{
+
+    font-family: Helvetica;
+    font-style: bold;
+    font-size: 30px;
+}
+
+main p{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    font-size: 10px;
+    color: grey;
+    padding-top: 0px;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    font-size: 10px;
+    color: grey;
+    padding-top: 42px;
+    float: right;
 }
 
