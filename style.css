@@ -1,3 +1,5 @@
+/* The Header  */
+
 header {
 
     background-color: white;
@@ -32,6 +34,8 @@ header h4{
     font-size: 10px;
     color: grey;
 }
+
+/* The Main - Part one  */
 
 main {
 
@@ -69,4 +73,32 @@ h5 {
     padding-top: 42px;
     float: right;
 }
+/* The Main - Part two  */
 
+.choco-image {
+
+    width: 960px;
+    margin: 0 auto;
+}
+
+.pargh {
+    width: 960px;
+    margin: 0 auto;
+    color: gray;
+}
+
+li {
+
+    text-align: center;
+}
+
+.List {
+
+     background-image: url(images/list-bg.png);
+     background-position: center;
+     background-size: contain;
+     width: 960px;
+     margin: 0 auto;
+     border-bottom: 20px solid rgb(206, 216, 206);
+     padding-bottom: 30px;
+}
