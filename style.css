@@ -102,3 +102,34 @@ li {
      border-bottom: 20px solid rgb(206, 216, 206);
      padding-bottom: 30px;
 }
+
+/* The Main - Part three  */
+
+.bottom-image {
+
+    padding-top: 20px;
+    width: 960px;
+    margin: 0 auto;
+    padding-right: 20px;
+}
+
+footer {
+
+    text-align: center;
+    color: gray;
+    border: 1px solid gainsboro;
+}
+
+button {
+
+        padding: 25px;
+        background: rgb(190, 12, 12);
+        color: #fff;
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 545px;
+        transition: 350ms;
+        cursor: pointer;
+        text-align: center;  
+}
